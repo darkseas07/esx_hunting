@@ -13,7 +13,7 @@ Darkseas - esx_hunting
 - The script I have made is the hunting profession script. From the <b><i>"Config.lua"</b></i> file, you can correct how much meat and leather will be in the inventory at once, the amount of money to be given per meat and leather when selling meat and leather, the butcher's name, skin, coordinate, blips and items.
 - If you do not have the items here, you can use the <b><i>"esx_hunting.sql"</b></i> query. If you cannot read and run sql, it will be sufficient to add deer_skin and deer_meat to the items section.
 - For the script to work, <b>mythic_notify ve mythic_progressbar</b> scripts are required. If you do not want to install it, or you can find it from the <b><i>"client/client.lua"</b></i> file and change the lines there.
-- 
+
 <b>I hope you will like, and sorry for my English!</b>
 
 <b>You can write for your bug and your feedback.</b>

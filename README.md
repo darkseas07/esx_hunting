@@ -8,7 +8,7 @@ Darkseas - esx_hunting V1
 
 <b>Bug ve görüşleriniz için yazabilirsiniz.</b>
 
-V2 yapmayı düşündüklerim (%30 tamamlandı)
+V2 de gelecek özellikler (%30 tamamlandı)
 - Avcılık için lisans,
 - Avcılık için ayrı bir bıçak (sadece item olarak),
 - Avcılık için silah ve mermi (silahı almak için avcılık lisansına sahip olması gerekmektedir),

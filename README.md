@@ -1,5 +1,5 @@
 # esx_hunting
-Darkseas - esx_hunting
+Darkseas - esx_hunting v1
 
 <b>[TR]</b> <br/>
 - Yapmış olduğum script avcılık mesleği scriptidir. <b><i>"Config.lua"</b></i> dosyasından bir seferde envanterinde ne kadar et ve deri bulunacağını, et ve deriyi satarken et ve deri başına verilecek para miktarını, kasapın ismini, skinini, koordinatını, blipleri ve itemları kendinize göre düzeltebilirsiniz.

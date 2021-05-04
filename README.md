@@ -1,5 +1,5 @@
 # esx_hunting
-Darkseas - esx_hunting v1
+Darkseas - esx_hunting V1
 
 <b>[TR]</b> <br/>
 - Yapmış olduğum script avcılık mesleği scriptidir. <b><i>"Config.lua"</b></i> dosyasından bir seferde envanterinde ne kadar et ve deri bulunacağını, et ve deriyi satarken et ve deri başına verilecek para miktarını, kasapın ismini, skinini, koordinatını, blipleri ve itemları kendinize göre düzeltebilirsiniz.
@@ -8,6 +8,12 @@ Darkseas - esx_hunting v1
 
 <b>Bug ve görüşleriniz için yazabilirsiniz.</b>
 
+V2 yapmayı düşündüklerim (%30 tamamlandı)
+- Avcılık için lisans,
+- Avcılık için ayrı bir bıçak (sadece item olarak),
+- Avcılık için silah ve mermi (silahı almak için avcılık lisansına sahip olması gerekmektedir),
+- Avcılık bölgeleri artaracak (birden fazla bölgede spawnlanacak).
+
 
 <b>[EN]</b> <br/>
 - The script I have made is the hunting profession script. From the <b><i>"Config.lua"</b></i> file, you can correct how much meat and leather will be in the inventory at once, the amount of money to be given per meat and leather when selling meat and leather, the butcher's name, skin, coordinate, blips and items.
@@ -15,5 +21,11 @@ Darkseas - esx_hunting v1
 - For the script to work, <b>mythic_notify ve mythic_progressbar</b> scripts are required. If you do not want to install it, or you can find it from the <b><i>"client/client.lua"</b></i> file and change the lines there.
 
 <b>I hope you will like, and sorry for my English!</b>
+
+V2 features (30% completed)
+- License for hunting,
+- A knife for hunting (only as an item),
+- Gun and bullet for hunting (must have a hunting license to buy the gun),
+- Hunting areas will be increased (spawned in multiple regions).
 
 <b>You can write for your bug and your feedback.</b>
